@@ -1,10 +1,10 @@
 {
   "avatar": "https://0.gravatar.com/avatar/b700a93656ece5fb9b0f3e8384ab39f239a43d7b76361a00f0fa515b4d8a18cf?size=256",
-  "username": "S-Mamashin",
-  "surnames": "Mamashin · Mamashin Squad",
+  "username": "NullV0y",
+  "surnames": "Null",
   "user": [
     {
-      "name": "Степан \uD83D\uDC51",
+      "name": "Mars",
       "age": 24,
       "languages": ["Russian", "English(British)", "Suomi"],
       "firstDev": "October, 2020",
@@ -37,7 +37,7 @@
       "url": "https://smamashin.ru/e/discordcard/assets/ds-a-dev.svg",
       "class": "ds-a-dev",
       "description": "Active Developer"
-    },
+    }, 
     {
       "title": "HypeSquad Bravery",
       "url": "https://smamashin.ru/e/discordcard/assets/ds-brav.webp",
@@ -48,49 +48,49 @@
   "links": [
     {
       "title": "Telegram",
-      "url": "https://t.me/thetraextra",
+      "url": "https://t.me/nnllv0y",
       "image": "https://smamashin.ru/e/discordcard/assets/links/tg.png",
       "description": "Для связи" 
     },
     {
       "title": "ВКонтакте",
-      "url": "https://vk.com/evangelion1995",
+      "url": "https://vk.com/",
       "image": "https://smamashin.ru/e/discordcard/assets/links/vk.png",
-      "description": "Че то делаю, но редко отвечаю" 
+      "description": "нету" 
     },
     {
       "title": "GitHub",
-      "url": "https://github.com/SMamashin",
+      "url": "https://github.com/pa1keer",
       "image": "https://smamashin.ru/e/discordcard/assets/links/git.png",
       "description": "Мои поделки и сурсня" 
     },
     {
       "title": "BlastHack",
-      "url": "https://www.blast.hk/members/386859/",
+      "url": "https://www.blast.hk/members/38685989/",
       "image": "https://smamashin.ru/e/discordcard/assets/links/bh.png",
       "description": "Ещё поделки и умные сообщения" 
     },
     {
       "title": "Какой-то форум",
-      "url": "https://lolz.live/members/2717556/",
+      "url": "https://lolz.live/members/8526291/",
       "image": "https://smamashin.ru/e/discordcard/assets/links/lolz.png",
       "description": "Просто существую" 
     },
     {
       "title": "Spotify",
-      "url": "https://open.spotify.com/user/31krtlmxgfyuljifugbwmutpgzly",
+      "url": "https://open.spotify.com/user/31krtlmxgfyuljifugbwmutpgzlykj",
       "image": "https://smamashin.ru/e/discordcard/assets/links/spotify.png",
-      "description": "Моё всё" 
+      "description": "Моё всё (Не актуал)" 
     },
     {
       "title": "Reddit",
-      "url": "https://www.reddit.com/user/SMamashin/",
+      "url": "https://www.reddit.com/user/pa1keer/",
       "image": "https://smamashin.ru/e/discordcard/assets/links/reddit.png",
       "description": "Делаю вид, что знаю английский на А+" 
     },
     {
-      "title": "SMamashin.ru",
-      "url": "https://smamashin.ru/",
+      "title": "feelsense.online",
+      "url": "https://feelsensw.online/",
       "image": "https://smamashin.ru/assets/images/msc-mamashin-tag-2024-xl.png",
       "description": "Легендарный сайт" 
     }
